@@ -1,1 +1,4 @@
-flask cloudscraper beautifulsoup4 lxml
+flask
+cloudscraper
+beautifulsoup4
+lxml
